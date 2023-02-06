@@ -1,0 +1,27 @@
+2023-01-05 00:16:36 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 00:16:39 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 02:05:07 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 02:05:09 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 02:20:29 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 02:20:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 03:20:11 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 03:20:13 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 03:21:31 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 03:21:32 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 03:22:26 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 03:22:27 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 04:29:27 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:29:29 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 04:31:51 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:32:36 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:32:37 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 04:34:20 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:34:21 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 04:35:52 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:35:53 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 04:44:29 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:44:31 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 04:44:56 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:44:57 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-01-05 04:45:24 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2023-01-05 04:45:26 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
